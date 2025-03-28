@@ -1,0 +1,16 @@
+.contato-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.contato {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    gap: 50px;
+}
+
+.contato p{
+    font-size: 1.2rem;
+}

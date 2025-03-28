@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 30px 0;
+}
+
+.linksh a {
+    color: #000;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.linksh a.active {
+    text-decoration: underline #8401E5 5px;
+    font-weight: bold;
+}
+
+.orcamento {
+    background-color: #8401E5;
+    padding: 7px 20px 10px;
+    border-radius: 20px;
+}
+
+.orcamento a {
+    color: #fff;
+    text-decoration: none;
+}

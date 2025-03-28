@@ -1,0 +1,45 @@
+.opnioes {
+    width: 100%;
+}
+
+.opnioes h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 40px 0;
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    gap: 30px;
+    margin: 20px auto;
+}
+
+.testimonial {
+    width: 80%;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.testimonial.active {
+    opacity: 1;
+}
+
+.testimonial p {
+    font-size: 2rem;
+}
+
+.testimonial span {
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+.arrow-button {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+}
