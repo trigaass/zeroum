@@ -25,5 +25,5 @@ CSS3
 
 📬 Contato
 
-[Seu Nome] - [thiagohenriquemadruga@gmail.com]
+[Thiago Madruga] - [thiagohenriquemadruga@gmail.com]
 Link do Projeto: https://github.com/trigaass/zeroum
